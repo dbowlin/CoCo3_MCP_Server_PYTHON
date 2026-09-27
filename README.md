@@ -1,3 +1,5 @@
+=== There is also a [TypeScript and Lua](https://github.com/dbowlin/CoCo3_MCP_Server/) version ===
+
 # CoCo 3 MCP Server PYTHON
 
 This app lets an assistant use a Tandy Color Computer 3. It runs the CoCo in MAME, so the assistant can type, use disks, and look at the screen.
